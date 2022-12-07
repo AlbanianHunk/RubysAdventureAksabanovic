@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 828023519471565487}
   - component: {fileID: -5590495747075826589}
   - component: {fileID: 3243366523353303990}
+  - component: {fileID: 5844018552578596023}
   m_Layer: 9
   m_Name: CogBullet
   m_TagString: Untagged
@@ -133,3 +134,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &5844018552578596023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283921445474462796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19430e46e624aee468172f869bf41391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
